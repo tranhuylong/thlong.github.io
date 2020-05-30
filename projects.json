@@ -1,0 +1,34 @@
+{
+	"closed": [
+		{
+			"id": "tgu",
+			"type": "web",
+			"year": "2015",
+			"link": "http://tgu.edu.vn",
+			"detail": "Cổng thông tin Trường Đại học Tiền Giang"
+		},
+		{
+			"id": "ssm",
+			"type": "win",
+			"year": "2019",
+			"link": "http://tgu.edu.vn",
+			"detail": "Phần mềm bốc thăm các môn thể thao đối kháng"
+		}
+	],
+	"opening": [
+		{
+			"id": "lms-tgu",
+			"type": "web",
+			"year": "2020",
+			"link": "#",
+			"detail": "Trang thông tin học liệu Trường Đại học Tiền Giang"
+		},
+		{
+			"id": "cyu-tgu",
+			"type": "web",
+			"year": "2020",
+			"link": "#",
+			"detail": "Trang thông tin đoàn hội Trường Đại học Tiền Giang"
+		}
+	]
+}
